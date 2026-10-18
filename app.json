@@ -1,0 +1,13 @@
+
+{
+  "expo": {
+    "name": "LoreKage AI Studio",
+    "slug": "lorekage-ai-studio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.lorekage.aistudio"
+    }
+  }
+}
